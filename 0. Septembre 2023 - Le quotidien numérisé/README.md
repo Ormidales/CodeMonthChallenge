@@ -2,7 +2,7 @@
 ## Le quotidien numérisé
 
 ### Semaine 1 : Les bases de la vie quotidienne
-- Jour 1: Liste de tâches avec sauvegarde en local
+- Jour 1: [Liste de tâches avec sauvegarde en local](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%201%20-%20Liste%20de%20tâches%20avec%20sauvegarde%20en%20local)
 - Jour 2: Calculatrice de budget mensuel
 - Jour 3: Planificateur de repas pour la semaine
 - Jour 4: Horloge mondiale avec plusieurs fuseaux horaires
