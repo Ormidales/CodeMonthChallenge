@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#clocks {
+  display: flex;
+  justify-content: space-around;
+}
+
+.clock {
+  text-align: center;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+}

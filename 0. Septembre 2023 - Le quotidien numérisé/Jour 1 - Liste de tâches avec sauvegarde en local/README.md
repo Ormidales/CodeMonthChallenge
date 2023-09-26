@@ -15,6 +15,6 @@ Un simple projet de liste de tâches (Todo List) qui permet aux utilisateurs d'a
 ## Installation et utilisation
 Clonez le dépôt GitHub sur votre machine locale :
 ```
-git clone https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%201%20-%20Liste%20de%20tâches%20avec%20sauvegarde%20en%20local.git
+git clone https://github.com/votre_nom_utilisateur/todo-list.git
 ```
 Ouvrez index.html dans votre navigateur web.
