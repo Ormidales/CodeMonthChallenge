@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#taskList {
+  list-style: none;
+  padding: 0;
+}
+
+.task {
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-top: 5px;
+  cursor: pointer;
+}
