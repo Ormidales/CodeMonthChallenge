@@ -10,6 +10,7 @@ Le "Code Month Challenge" est une initiative stimulante et gratifiante destinée
 - Flexibilité: Les défis sont conçus pour être suffisamment ouverts afin que vous puissiez les adapter à vos besoins spécifiques ou à vos intérêts particuliers.
 
 ## Thèmes actuels
+0. [Septembre 2023 - Le quotidien numérisé](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé)
 1. [Octobre 2023 - Interactions Utilisateur Avancées](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées)
 2. [Novembre 2023 - RétroFuturisme en Web Design](https://github.com/Ormidales/CodeMonthChallenge/tree/main/2.%20Novembre%202023%20-%20RétroFuturisme%20en%20Web%20Design)
 3. [Décembre 2023 - Le Calendrier de l'Avent du Développeur Web](https://github.com/Ormidales/CodeMonthChallenge/tree/main/3.%20Décembre%202023%20-%20Le%20Calendrier%20de%20l'Avent%20du%20Développeur%20Web)
