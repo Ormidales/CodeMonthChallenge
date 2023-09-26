@@ -11,7 +11,15 @@ Le "Code Month Challenge" est une initiative stimulante et gratifiante destinée
 
 ## Thèmes actuels
 0. [Septembre 2023 - Le quotidien numérisé](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé)
+    - Jour 1: [Liste de tâches avec sauvegarde en local](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%201%20-%20Liste%20de%20tâches%20avec%20sauvegarde%20en%20local)
+    - Jour 2: [Calculatrice de budget mensuel](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%202%20-%20Calculatrice%20de%20budget%20mensuel)
+    - Jour 3: [Planificateur de repas pour la semaine](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%203%20-%20Planificateur%20de%20repas%20pour%20la%20semaine)
+    - Jour 4: [Horloge mondiale avec plusieurs fuseaux horaires](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%204%20-%20Horloge%20mondiale%20avec%20plusieurs%20fuseaux%20horaires)
+***
 1. [Octobre 2023 - Interactions Utilisateur Avancées](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées)
+***
 2. [Novembre 2023 - RétroFuturisme en Web Design](https://github.com/Ormidales/CodeMonthChallenge/tree/main/2.%20Novembre%202023%20-%20RétroFuturisme%20en%20Web%20Design)
+***
 3. [Décembre 2023 - Le Calendrier de l'Avent du Développeur Web](https://github.com/Ormidales/CodeMonthChallenge/tree/main/3.%20Décembre%202023%20-%20Le%20Calendrier%20de%20l'Avent%20du%20Développeur%20Web)
+***
 4. [Janvier 2024 - L'Évolution du Web, du Statique au Dynamique](https://github.com/Ormidales/CodeMonthChallenge/tree/main/4.%20Janvier%202024%20-%20L'Évolution%20du%20Web%2C%20du%20Statique%20au%20Dynamique)
