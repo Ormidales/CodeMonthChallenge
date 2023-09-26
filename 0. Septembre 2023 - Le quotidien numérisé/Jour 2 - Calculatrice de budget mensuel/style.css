@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 400px;
+  margin: 0 auto;
+}
+
+label, input {
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  border: none;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+.history-entry {
+  border: 1px solid #ccc;
+  margin-top: 20px;
+  padding: 10px;
+}
