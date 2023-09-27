@@ -11,9 +11,9 @@
 - Jour 7: [Convertisseur de devises en temps réel (API gratuite)](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%207%20-%20Convertisseur%20de%20devises%20en%20temps%20réel)
 
 ### Semaine 2 : Productivité et travail
-- Jour 8: Minuterie Pomodoro
-- Jour 9: Calendrier avec des événements cliquables
-- Jour 10: Tableau Kanban pour la gestion de projet
+- Jour 8: [Minuterie Pomodoro](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%208%20-%20Minuterie%20Pomodoro)
+- Jour 9: [Calendrier avec des événements cliquables](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%209%20-%20Calendrier%20avec%20des%20événements%20cliquables)
+- Jour 10: [Tableau Kanban pour la gestion de projet](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%2010%20-%20Tableau%20Kanban%20pour%20la%20gestion%20de%20projet)
 - Jour 11: Outil de brainstorming avec des Post-its virtuels
 - Jour 12: Suivi du temps passé sur différentes tâches
 - Jour 13: Un simple éditeur de texte en ligne
