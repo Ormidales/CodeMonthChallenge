@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Convertisseur de Devises</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+    <body class="bg-gray-100 p-10">
+        <div class="container mx-auto">
+            <h1 class="text-4xl mb-4">Convertisseur de Devises</h1>
+            <div>
+                <input id="amount" type="number" placeholder="Montant" class="border border-stone-900 p-2 rounded">
+                <select id="from" class="border border-stone-900 p-2 rounded">
+                    <!-- Les options seront ajoutées ici -->
+                </select>
+                <span>à</span>
+                <select id="to" class="border border-stone-900 p-2 rounded">
+                    <!-- Les options seront ajoutées ici -->
+                </select>
+                <button id="convert" class="bg-blue-500 text-white p-2 rounded">Convertir</button>
+            </div>
+            <div id="result" class="mt-4"></div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
