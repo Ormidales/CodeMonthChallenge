@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <title>Tableau Kanban</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+
+    <div class="container mx-auto mt-10">
+      <h1 class="text-4xl text-center mb-10">Tableau Kanban</h1>
+
+      <div class="flex space-x-4">
+        <div id="todo" class="w-1/4">
+          <h2 class="text-2xl mb-2">À faire</h2>
+          <div class="bg-gray-200 p-2 rounded grid grid-cols-1 gap-2" id="todoList">
+            <!-- Les tâches iront ici -->
+          </div>
+        </div>
+
+        <div id="inProgress" class="w-1/4">
+          <h2 class="text-2xl mb-2">En cours</h2>
+          <div class="bg-gray-200 p-2 rounded grid grid-cols-1 gap-2" id="inProgressList">
+            <!-- Les tâches iront ici -->
+          </div>
+        </div>
+
+        <div id="done" class="w-1/4">
+          <h2 class="text-2xl mb-2">Terminé</h2>
+          <div class="bg-gray-200 p-2 rounded grid grid-cols-1 gap-2" id="doneList">
+            <!-- Les tâches iront ici -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
