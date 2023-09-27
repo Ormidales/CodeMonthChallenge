@@ -18,6 +18,9 @@ Le "Code Month Challenge" est une initiative stimulante et gratifiante destinée
     - Jour 5: [Métronome pour les musiciens](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%205%20-%20Métronome%20pour%20les%20musiciens)
     - Jour 6: [Suivi d'exercices ou de pas](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%206%20-%20Suivi%20d'exercices%20ou%20de%20pas)
     - Jour 7: [Convertisseur de devises en temps réel (API gratuite)](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%207%20-%20Convertisseur%20de%20devises%20en%20temps%20réel)
+    - Jour 8: [Minuterie Pomodoro](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%208%20-%20Minuterie%20Pomodoro)
+    - Jour 9: [Calendrier avec des événements cliquables](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%209%20-%20Calendrier%20avec%20des%20événements%20cliquables)
+    - Jour 10: [Tableau Kanban pour la gestion de projet](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%2010%20-%20Tableau%20Kanban%20pour%20la%20gestion%20de%20projet)
 ***
 1. [Octobre 2023 - Interactions Utilisateur Avancées](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées)
 ***
