@@ -15,6 +15,9 @@ Le "Code Month Challenge" est une initiative stimulante et gratifiante destinée
     - Jour 2: [Calculatrice de budget mensuel](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%202%20-%20Calculatrice%20de%20budget%20mensuel)
     - Jour 3: [Planificateur de repas pour la semaine](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%203%20-%20Planificateur%20de%20repas%20pour%20la%20semaine)
     - Jour 4: [Horloge mondiale avec plusieurs fuseaux horaires](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%204%20-%20Horloge%20mondiale%20avec%20plusieurs%20fuseaux%20horaires)
+    - Jour 5: [Métronome pour les musiciens](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%205%20-%20Métronome%20pour%20les%20musiciens)
+    - Jour 6: [Suivi d'exercices ou de pas](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%206%20-%20Suivi%20d'exercices%20ou%20de%20pas)
+    - Jour 7: [Convertisseur de devises en temps réel (API gratuite)](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%207%20-%20Convertisseur%20de%20devises%20en%20temps%20réel)
 ***
 1. [Octobre 2023 - Interactions Utilisateur Avancées](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées)
 ***
