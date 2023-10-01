@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <title>Interactive To-Do List</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+  </head>
+  <body class="bg-gray-200 h-screen font-sans">
+    <div class="container mx-auto mt-8">
+      <h1 class="text-2xl font-bold mb-4">To-Do List</h1>
+      <input id="taskInput" type="text" placeholder="Add new task" class="border p-2 rounded">
+      <select id="priorityInput" class="border p-2 rounded ml-2">
+        <option value="Priorité passable">Priorité passable</option>
+        <option value="Priorité normale">Priorité normale</option>
+        <option value="Priorité urgente">Priorité urgente</option>
+      </select>
+      <button onclick="addTask()" class="bg-blue-500 text-white p-2 rounded ml-2">Add</button>
+      <ul id="taskList" class="grid grid-cols-1 gap-3 mt-4"></ul>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
