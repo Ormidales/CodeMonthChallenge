@@ -23,6 +23,7 @@ Le "Code Month Challenge" est une initiative stimulante et gratifiante destinée
     - Jour 10: [Tableau Kanban pour la gestion de projet](https://github.com/Ormidales/CodeMonthChallenge/tree/main/0.%20Septembre%202023%20-%20Le%20quotidien%20numérisé/Jour%2010%20-%20Tableau%20Kanban%20pour%20la%20gestion%20de%20projet)
 ***
 1. [Octobre 2023 - Interactions Utilisateur Avancées](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées)
+    - Jour 1: [Créez une liste de tâches interactive](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées/Jour%201%20-%20Créez%20une%20liste%20de%20tâches%20interactive)
 ***
 2. [Novembre 2023 - RétroFuturisme en Web Design](https://github.com/Ormidales/CodeMonthChallenge/tree/main/2.%20Novembre%202023%20-%20RétroFuturisme%20en%20Web%20Design)
 ***
