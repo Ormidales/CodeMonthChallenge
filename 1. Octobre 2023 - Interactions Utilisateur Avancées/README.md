@@ -2,7 +2,7 @@
 ## Interactions Utilisateur Avancées
 
 ### Semaine 1 : Éléments de base et manipulation DOM
-- Jour 1: Créez une liste de tâches interactive
+- Jour 1: [Créez une liste de tâches interactive](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées/Jour%201%20-%20Créez%20une%20liste%20de%20tâches%20interactive)
 - Jour 2: Développez une horloge analogique
 - Jour 3: Créez un carrousel d'images
 - Jour 4: Mise en œuvre d'un système de notation par étoiles
