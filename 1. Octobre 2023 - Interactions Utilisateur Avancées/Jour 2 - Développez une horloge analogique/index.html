@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+      <meta charset="UTF-8">
+      <title>Horloge Analogique</title>
+      <script src="https://cdn.tailwindcss.com"></script>
+      <style>
+        /* Styles de base pour l'horloge */
+        .clock {
+          width: 200px;
+          height: 200px;
+          position: relative;
+        }
+        /* Styles pour les aiguilles de l'horloge */
+        .hand {
+          transform-origin: 50% 100%;
+          position: absolute;
+          bottom: 50%;
+          left: 50%;
+          transition: transform 0.5s cubic-bezier(0.4, 2.3, 0.3, 1);
+        }
+        /* Styles pour les marqueurs temporels */
+        .marker {
+          width: 4px;
+          height: 16px;
+          background-color: black;
+          position: absolute;
+          bottom: 50%;
+          left: 50%;
+          transform-origin: 50% 100%;
+        }
+      </style>
+  </head>
+  <body class="bg-stone-900 flex items-center justify-center h-screen">
+      <!-- Horloge analogique -->
+      <div class="clock bg-white p-4 rounded-full shadow-lg -rotate-90">
+          <!-- Aiguilles de l'horloge -->
+          <div id="hour" class="hand h-1/4 w-1 bg-blue-500 absolute"></div>
+          <div id="minute" class="hand h-1/3 w-0.5 bg-green-500 absolute"></div>
+          <div id="second" class="hand h-1/2 w-0.5 bg-red-500 absolute"></div>
+          <!-- Centre de l'horloge -->
+          <div class="bg-black w-4 h-4 rounded-full absolute top-[47%] left-[47%]"></div>
+          <!-- Marqueurs temporels -->
+          <div class="marker" id="marker-1"></div>
+          <div class="marker" id="marker-2"></div>
+          <div class="marker" id="marker-3"></div>
+          <div class="marker" id="marker-4"></div>
+          <div class="marker" id="marker-5"></div>
+          <div class="marker" id="marker-6"></div>
+          <div class="marker" id="marker-7"></div>
+          <div class="marker" id="marker-8"></div>
+          <div class="marker" id="marker-9"></div>
+          <div class="marker" id="marker-10"></div>
+          <div class="marker" id="marker-11"></div>
+          <div class="marker" id="marker-12"></div>
+      </div>
+      <script src="script.js"></script>
+  </body>
+</html>
