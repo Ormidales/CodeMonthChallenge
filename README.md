@@ -24,6 +24,7 @@ Le "Code Month Challenge" est une initiative stimulante et gratifiante destinée
 ***
 1. [Octobre 2023 - Interactions Utilisateur Avancées](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées)
     - Jour 1: [Créez une liste de tâches interactive](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées/Jour%201%20-%20Créez%20une%20liste%20de%20tâches%20interactive)
+    - Jour 2: [Développez une horloge analogique](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées/Jour%202%20-%20Développez%20une%20horloge%20analogique)
 ***
 2. [Novembre 2023 - RétroFuturisme en Web Design](https://github.com/Ormidales/CodeMonthChallenge/tree/main/2.%20Novembre%202023%20-%20RétroFuturisme%20en%20Web%20Design)
 ***
