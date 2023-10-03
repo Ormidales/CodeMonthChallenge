@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <title>Carrousel d'images</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+    <div class="container mx-auto my-10">
+      <div id="carousel" class="relative overflow-hidden w-full aspect-video">
+        <img src="1.png" alt="Image 1" loading="lazy" class="carousel-image absolute w-full h-full object-cover">
+        <img src="2.png" alt="Image 2" loading="lazy" class="carousel-image absolute w-full h-full object-cover hidden">
+        <img src="3.png" alt="Image 3" loading="lazy" class="carousel-image absolute w-full h-full object-cover hidden">
+        <button id="prev" class="absolute left-0 top-1/2 transform -translate-y-1/2 bg-gray-300 p-2">Prev</button>
+        <button id="next" class="absolute right-0 top-1/2 transform -translate-y-1/2 bg-gray-300 p-2">Next</button>
+      </div>
+      <div id="indicators" class="flex justify-center mt-4">
+        <!-- Les cercles d'indication seront insérés ici par JavaScript -->
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
