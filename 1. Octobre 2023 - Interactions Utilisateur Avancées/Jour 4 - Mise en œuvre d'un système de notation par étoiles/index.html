@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <title>Évaluation par étoiles</title>
+    <!-- Importation de TailwindCSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      .star-inactive {
+        color: #ccc; /* Couleur gris pour les étoiles inactives */
+      }
+      .star-active {
+        color: #FFD700; /* Couleur jaune pour les étoiles actives */
+      }
+      .star-transition {
+        transition: color 0.3s ease-in-out;
+      }
+    </style>
+  </head>
+  <body class="flex justify-center items-center h-screen bg-gray-200">
+
+    <div id="star-container" class="flex gap-4 text-8xl">
+      <div class="star star-inactive star-transition cursor-pointer" data-value="1">★</div>
+      <div class="star star-inactive star-transition cursor-pointer" data-value="2">★</div>
+      <div class="star star-inactive star-transition cursor-pointer" data-value="3">★</div>
+      <div class="star star-inactive star-transition cursor-pointer" data-value="4">★</div>
+      <div class="star star-inactive star-transition cursor-pointer" data-value="5">★</div>
+    </div>
+
+    <script src="script.js"></script>
+
+  </body>
+</html>
