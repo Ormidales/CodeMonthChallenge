@@ -5,7 +5,7 @@
 - Jour 1: [Créez une liste de tâches interactive](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées/Jour%201%20-%20Créez%20une%20liste%20de%20tâches%20interactive)
 - Jour 2: [Développez une horloge analogique](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées/Jour%202%20-%20Développez%20une%20horloge%20analogique)
 - Jour 3: [Créez un carrousel d'images](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées/Jour%203%20-%20Créez%20un%20carrousel%20d'images)
-- Jour 4: Mise en œuvre d'un système de notation par étoiles
+- Jour 4: [Mise en œuvre d'un système de notation par étoiles](https://github.com/Ormidales/CodeMonthChallenge/tree/main/1.%20Octobre%202023%20-%20Interactions%20Utilisateur%20Avancées/Jour%204%20-%20Mise%20en%20œuvre%20d'un%20système%20de%20notation%20par%20étoiles)
 - Jour 5: Créez un quiz interactif
 - Jour 6: Tableau de bord météo avec des données en temps réel
 - Jour 7: Intégrez un chatbot simple sur une page web
